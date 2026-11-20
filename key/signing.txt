@@ -1,0 +1,6 @@
+release {
+            storeFile file('amxhnzn.jks')
+            storePassword '123456'
+            keyAlias 'klobx'
+            keyPassword '123456'
+        }
